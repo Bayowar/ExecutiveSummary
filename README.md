@@ -1,11 +1,10 @@
-# Data Science Portfolio
 ## Bayowa Onabajo
 ### Contact
 [Email](bayowa.onabajo@bison.howard.edu, bayoonabajo1@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/bayowa-onabajo-mbchb-3b7993170/) | [Github](https://Bayowar.github.io/)
 
 CV: [CV Bayowa](2025_DigitalResume.html)
 
-## Featured Projects:
+## Featured Project:
 
 ## Examining the relationship between air pollution, socioeconomic status and cardiovascular mortality rates and determining if air pollution and socioeconomic status influence cardiovascular mortality rates in the U.S.
 
