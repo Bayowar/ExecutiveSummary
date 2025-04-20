@@ -6,11 +6,11 @@ Cardiovascular disease (CVD) continues to be one of the leading cause of death i
 
 Communities with lower income, poorer healthcare access, and diminished political capital are disproportionately located in over-populated areas prone to increased pollution. These populations face dual vulnerabilities: they are more exposed to pollutants and less equipped to mitigate their health impacts.
 
-![Average PM2.5 Levels in 2010](https://github.com/Bayowar/Bayowar.github.io/raw/main/output_103_0.png)
+![Average PM2.5 Levels in 2010](https://github.com/Bayowar/Executivesummary/raw/main/output_103_0.png)
 
-![Average Cardiovascular Mortality Rates in 2010](https://github.com/Bayowar/Bayowar.github.io/raw/main/output_103_1.png)
+![Average Cardiovascular Mortality Rates in 2010](https://github.com/Bayowar/Executivesummary/raw/main/output_103_1.png)
 
-![Average Poverty Rate in 2010](https://github.com/Bayowar/Bayowar.github.io/raw/main/output_103_2.png)
+![Average Poverty Rate in 2010](https://github.com/Bayowar/Executivesummary/raw/main/output_103_2.png)
 
 ### Why Cardiovascular Disease is Significant.
 
@@ -69,13 +69,13 @@ PM2.5 exposure was a statistically significant predictor of cardiovascular morta
 
 SES emerged as a risk multiplier showing lower-income locations with higher uninsured populations and lower educational attainment had elevated CVD mortality rates. This supports the concept of multifactorial cumulative disadvantage—where multiple vulnerabilities intersect to worsen adverse health outcomes.
 
-![Scatterplot showing SES factors,PM2.5 and CMR](https://github.com/Bayowar/Bayowar.github.io/raw/main/output_128_0.png)
+![Scatterplot showing SES factors,PM2.5 and CMR](https://github.com/Bayowar/Executivesummary/raw/main/output_128_0.png)
 
 ### Hypertension and Cardiovascular Mortality
 
 While our visualizations suggest a potentially weak direct influence of overall hypertension mortality rates on cardiovascular mortality rates—an expected finding given the multifactorial nature of CMR, which can be linked to various factors sometimes interrelated with hypertension—our regression model revealed a statistically significant positive relationship between hypertension-related death rates and cardiovascular mortality rates. However, there were implications that other significant conditions or factors, such as PM2.5 levels and broader socioeconomic determinants, likely exert substantial influence and warrant further investigation.
 
-![Barchart showing Hypertension rates and Cardiovascular Mortality Rates](https://github.com/Bayowar/Bayowar.github.io/raw/main/output_152_0.png)
+![Barchart showing Hypertension rates and Cardiovascular Mortality Rates](https://github.com/Bayowar/Executivesummary/raw/main/output_152_0.png)
 
 It is important to note that these are ecological correlations. While they can suggest potential relationships at the population level, they do not establish individual-level causation. Further individual-level studies would be needed to confirm these associations and understand the underlying mechanisms.
 
