@@ -92,8 +92,7 @@ It is important to note that these are ecological correlations. While they can s
 
 This paper concludes that the study of socioeconomic status (SES) and PM2.5 exposure on cardiovascular disease (CVD) mortality rates in the U.S. reveals a significant interplay where lower SES exacerbates the negative health effects of air pollution, leading to higher cardiovascular death rates in communities. Addressing this requires a fundamental four-year policy shift involving stricter air quality regulations prioritizing burdened, low-SES areas, expanded healthcare access, investments in community education and green jobs, and permit reforms mandating equity impact assessments. The proposed implementation emphasizes community involvement and rigorous evaluation, advocating for proactive prevention and the dismantling of systemic inequalities to achieve socio-environmental and health justice.
 
-** Full Report **
-
+#### Full Report
 [Ipynb file link](https://github.com/Bayowar/CMRPM25Research/blob/3918f6d6c8186ad2ff1382b29a6f8765d0e64bf5/researchpaperdata2_0_0-2.ipynb).
 
 Markdown file
