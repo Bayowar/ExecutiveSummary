@@ -31,8 +31,7 @@
     <p>Cardiovascular disease (CVD) is a class of diseases that affect the heart or blood vessels in simple terms. These conditions include but are not limited to coronary artery disease , stroke, heart failure and hypertension (more likely a risk factor). CVD is a critical public health concern due to its high prevalence and substantial impact on morbidity and mortality, contributing significantly to healthcare costs and reduced quality of life. An understanding of its determinants is essential for developing effective prevention, intervention strategies and for healthier communities.</p>
 
     <h3>Air Pollution and Particulate Matter 2.5 (PM2.5).</h3>
-    <p>Air pollution, particularly fine particulate matter (PM2.5), has emerged as a significant environmental risk factor for CVD. PM2.5 refers to minute airborne particles that are 2.5 micrometers in diameter or less. These particles can be inhaled through the bronchi, bronchioles and alveoli of the lungs, entering the bloodstream and triggering a cascade of adverse physiological responses.</p>
-    <p>The vascular impacts of PM2.5 exposure are well documented with associations with increased inflammation, oxidative stress, endothelial dysfunction, and altered blood coagulation (Krittanawong et al.,). These processes contribute to the development and progression of atherosclerosis, hypertension, and CVD.</p>
+    <p>Air pollution, particularly fine particulate matter (PM2.5), has emerged as a significant environmental risk factor for CVD. PM2.5 refers to minute airborne particles that are 2.5 micrometers in diameter or less. These particles can be inhaled through the bronchi, bronchioles and alveoli of the lungs, entering the bloodstream and triggering a cascade of adverse physiological responses.</p><p>The vascular impacts of PM2.5 exposure are well documented with associations with increased inflammation, oxidative stress, endothelial dysfunction, and altered blood coagulation (Krittanawong et al.,). These processes contribute to the development and progression of atherosclerosis, hypertension, and CVD.</p>
 
     <h3>Socioeconomic Status: Factors and Importance</h3>
     <p>Socioeconomic status (SES) is a multifaceted social construct encompassing various socio-economic factors significantly influencing individuals and communities. Key indicators of SES include; 1) income, which affects access to essential resources such as healthcare, healthy food, and housing; 2) education, which shapes health literacy, employment prospects, and health-promoting behaviors; and 3) healthcare access, which determines the availability and quality of medical services for disease prevention, diagnosis, and treatment. Notably, lower socioeconomic status is frequently associated with increased exposure to risk factors for cardiovascular disease.</p>
@@ -51,24 +50,23 @@
         <li>National Center for Health Statistics (NCHS): Age-adjusted cardiovascular and hypertension mortality rates.</li>
         <li>American Community Survey (2009–2010): Income, education, insurance status, and poverty data.</li>
     </ul>
-    <p>Data was cleaned, merged using FIPS codes, and analyzed using Python-based tools. Key engineered features include uninsured rates, education levels, and poverty rates. The timeline was constrained to 2009–2010 to maintain alignment and statistical relevance across datasets.</p>
-    <p>Exploratory anslysis, descriptive statistics, correlation analysis,regression models and visualizations were done to reveal trends in our cross-sectional analysis of data from year 2009 and 2010.</p>
+    <p>Data was cleaned, merged using FIPS codes, and analyzed using Python-based tools. Key engineered features include uninsured rates, education levels, and poverty rates. The timeline was constrained to 2009–2010 to maintain alignment and statistical relevance across datasets.</p><p>Exploratory anslysis, descriptive statistics, correlation analysis,regression models and visualizations were done to reveal trends in our cross-sectional analysis of data from year 2009 and 2010.</p>
 
-    <h3>Limitations.</h3>
+    <h4>Limitations.</h4>
     <p>Lack of causality due to the snap-shot nature of cross-sectional data.</p>
 
     <h2>Analysis</h2>
     <p>Our findings reveal that impact of socioeconomic disparities are as significant as pm2.5 exposure on CMR. A few southern states ranked high on pollution and cardiovascular mortality, and low on income and education, suggesting geographic clustering of socio-environmental injustice associated with increased cardiovascular disease mortality rate.</p>
 
-    <h3>Pollution and CMR</h3>
+    <h4>Pollution and CMR</h4>
     <p>PM2.5 exposure was a statistically significant predictor of cardiovascular mortality.Higher PM2.5 exposure is associated with increased cardiovascular mortality, reinforcing concerns about air pollution's influence on heart disease and its mortality rate.</p>
 
-    <h3>Role of Socioeconomic Status</h3>
+    <h4>Role of Socioeconomic Status</h4>
     <p>SES emerged as a risk multiplier showing lower-income locations with higher uninsured populations and lower educational attainment had elevated CVD mortality rates. This supports the concept of multifactorial cumulative disadvantage—where multiple vulnerabilities intersect to worsen adverse health outcomes.</p>
 
     <img src="https://github.com/Bayowar/Executivesummary/raw/main/output_128_0.png" alt="Scatterplot showing SES factors,PM2.5 and CMR">
 
-    <h3>Hypertension and Cardiovascular Mortality</h3>
+    <h4>Hypertension and Cardiovascular Mortality</h4>
     <p>While our visualizations suggest a potentially weak direct influence of overall hypertension mortality rates on cardiovascular mortality rates—an expected finding given the multifactorial nature of CMR, which can be linked to various factors sometimes interrelated with hypertension—our regression model revealed a statistically significant positive relationship between hypertension-related death rates and cardiovascular mortality rates. However, there were implications that other significant conditions or factors, such as PM2.5 levels and broader socioeconomic determinants, likely exert substantial influence and warrant further investigation.</p>
 
     <img src="https://github.com/Bayowar/Executivesummary/raw/main/output_152_0.png" alt="Barchart showing Hypertension rates and Cardiovascular Mortality Rates">
